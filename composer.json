@@ -1,6 +1,6 @@
 {
     "name": "luft/test-luft-lib",
-    "type": "composer-plugin",
+    "type": "library",
     "require": {},
     "autoload":{
         "psr-4":{
