@@ -11,5 +11,10 @@ class InputOutputProcessor
         
         return "$userInput";
     }
+    
+    public function printToStdOut(string $message): void
+    {
+        echo trim($message) . PHP_EOL;
+    }
 }
 
