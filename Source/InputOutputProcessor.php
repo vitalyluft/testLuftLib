@@ -1,6 +1,6 @@
 <?php
 declare(strict_types = 1);
-namespace MyHomeWorkNamespace;
+namespace MyTestLib\Source;
 
 class InputOutputProcessor
 {
